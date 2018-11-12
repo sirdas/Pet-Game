@@ -1,5 +1,6 @@
 # Pet Game
 University Mobile App Dev Class - Lab 2 & 5
+
 Submitted by: Ahmet Talha (Reis) Sirdas
 
 ## Extra Features (Creative Portion)
